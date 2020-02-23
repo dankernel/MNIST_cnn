@@ -1,3 +1,3 @@
 
-./MNIST_DATASET
-./save.pth
+MNIST_DATASET/
+save.pth
